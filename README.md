@@ -7,7 +7,7 @@ To view the Power BI report, you will need to have Power BI Desktop installed on
 The report is divided into two main pages, one for Netflix and one for Amazon Prime Video. Each page contains analysis of all the categories available on each platform, and includes a slicer to filter by genre.
 
 ## Data Sources
-The data used in this report was collected from public sources. The data includes information on the number of shows and series available on each platform, as well as ranking data for selected titles.
+The data used in this report was collected from public sources. The data includes information on the number of movies and series available on each platform, as well as ranking data for selected titles.
 
 ## Report Pages
 Netflix Analysis
